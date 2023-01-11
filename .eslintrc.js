@@ -12,9 +12,14 @@ module.exports = {
     },
     rules: {
         semi: ["error", "always"],
-        quotes: ["error", "double"],
+        quotes: ["error", "double", {
+            allowTemplateLiterals: true,
+        }],
         indent: ["error", 4],
         "eol-last": ["error", "never"],
         "linebreak-style": 0,
+        "import/no-extraneous-dependencies": ["error", {
+            devDependencies: true,
+        }],
     },
 };

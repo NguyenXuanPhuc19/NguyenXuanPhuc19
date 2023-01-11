@@ -1,0 +1,106 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "How to use Bootstrap library",
+      "content": "If you want to quickly create a website without writing tons of CSS from scratch, then Bootstrap 4 might be the framework you’re looking for. In this course, you’ll see how Bootstrap makes it easy to layout and create interactive and responsive sites.",
+      "category_name": "Figma",
+      "createat": "2022-06-02"
+    },
+    {
+      "id": 2,
+      "title": "How to use Php",
+      "content": "If you want to quickly create a website without writing tons of CSS from scratch, then Bootstrap 4 might be the framework you’re looking for. In this course, you’ll see how Bootstrap makes it easy to layout and create interactive and responsive sites.",
+      "category_name": "Php",
+      "createat": "2022-06-01"
+    },
+    {
+      "id": 3,
+      "title": "How to use Figma",
+      "content": "If you want to quickly create a website without writing tons of CSS from scratch, then Bootstrap 4 might be the framework you’re looking for. In this course, you’ll see how Bootstrap makes it easy to layout and create interactive and responsive sites.",
+      "category_name": "Figma",
+      "createat": "2022-06-01"
+    },
+    {
+      "id": 4,
+      "title": "tieu de 12",
+      "content": "noi dung 12",
+      "category_name": "Figma",
+      "createat": "2022-06-11"
+    },
+    {
+      "id": 5,
+      "title": "tieu de 12",
+      "content": "noi dung 12",
+      "category_name": "Figma",
+      "createat": "2022-06-12"
+    }
+  ],
+  "category_Post": [
+    {
+      "id": 1,
+      "name": "Php"
+    },
+    {
+      "id": 2,
+      "name": "Figma"
+    },
+    {
+      "id": 3,
+      "name": "Javascript"
+    },
+    {
+      "id": 4,
+      "name": "ReactJS"
+    },
+    {
+      "name": "Ruby",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "The Acacia Hills Blend",
+      "thumbnail": "http://res.cloudinary.com/dxvlhyxvc/image/upload/v1673418005/nnmtamy7yo2sv5iie4ys.jpg",
+      "price": "99"
+    },
+    {
+      "id": 2,
+      "name": "Blend of Strong Coffee ",
+      "thumbnail": "http://res.cloudinary.com/dxvlhyxvc/image/upload/v1673419354/ig2dex2jxzll0a7j42za.jpg",
+      "price": "23"
+    },
+    {
+      "id": 3,
+      "name": "Space Coffee Blend",
+      "thumbnail": "http://res.cloudinary.com/dxvlhyxvc/image/upload/v1673418905/lwzco77poejkcp2gzrq1.jpg",
+      "price": "45"
+    }
+  ],
+  "category_Product": [
+    {
+      "id": 1,
+      "name": "Figma"
+    },
+    {
+      "id": 2,
+      "name": "Php"
+    },
+    {
+      "id": 3,
+      "name": "Javascript"
+    },
+    {
+      "id": 4,
+      "name": "Dark"
+    }
+  ],
+  "users": [
+    {
+      "email": "phucnxph@gmail.com",
+      "password": "$2a$10$uEAYDTPqkszO7XFnalhbPuC5SwFWsRxjgkYy6VDI/NL1xC1oGmJzK",
+      "name": "Nguyen Xuan Phuc"
+    }
+  ]
+}
